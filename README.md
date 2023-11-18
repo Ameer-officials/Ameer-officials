@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **REACT-NEXTJS-NESTJS-TYPESCRIPT-SQL**
 
-- 📫 How to reach me **ameer.mopensource@gmail.com**
+- 📫 How to reach me **ameer.mantiqh@gmail.com**
 
 - ⚡ Fun fact **IT'S NOT A BUG IT'S A FEATURE**
 
