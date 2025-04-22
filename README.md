@@ -72,7 +72,7 @@ tech_stack:
         - Apache Superset
         - Grafana
         - Loki
-contact: ameer.mantiqh@gmail.com
+contact: ameerusmanmakandar@gmail.com
 motto: "It's not a bug, it's a feature!"
 ```
 
